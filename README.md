@@ -34,7 +34,7 @@ Segmentation存放的是可用于分割的数据
 
 网上很多教程，但是我觉得都很麻烦，直到我遇到了一位大神做的软件，手动标注，会自动生成图片信息的xml文件
 
-1)在这里下载：https://github.com/tzutalin/labelImg，至于怎么用相信你打开就知道了
+1)本项目中的labelImg-master,执行labelImg.py
 
 2)保存的路径就是我们的Annatations文件夹，别保存别的地方去了，，，
 
